@@ -1,0 +1,23 @@
+{
+  "name": "com.kuku.websockethelper",
+  "version": "1.0.0",
+  "description": "an util used rxjs to wrapper websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x842013824/websocketHelper.git"
+  },
+  "author": "kuku.xu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/x842013824/websocketHelper/issues"
+  },
+  "homepage": "https://github.com/x842013824/websocketHelper#readme",
+  "dependencies": {
+    "rxjs": "^7.5.6",
+    "typescript": "^4.7.4"
+  }
+}
